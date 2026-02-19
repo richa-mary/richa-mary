@@ -1,65 +1,98 @@
-👋 Hi, I'm Richa Mary
+# Richa Mary | Systems Engineer & Operation Analyst
 
-Systems Engineer | Operation Analyst | Data Enthusiast
+**Operation Analyst @ Outfox Energy | Former Systems Engineer @ Infosys | Data & Process Specialist**
 
-I am a results-driven professional with a background in Civil Engineering and a proven track record as a Systems Engineer and Operation Analyst. I specialize in bridging the gap between technical development and data-driven business insights.
+📍 Leicester, UK | 📧 richamary6@gmail.com | 📞 +44 7741609983
 
-My journey has taken me from building full-stack applications at Infosys to optimizing energy market settlements at Outfox Energy. I am passionate about translating complex datasets into actionable strategies that drive operational efficiency and cost savings.
+---
 
-🚀 Professional Highlights
+## 🎯 Professional Summary
 
-Operation Analyst @ Outfox Energy (May 2024 - Present)
+Analytical and results-oriented professional with a strong foundation in Civil Engineering and extensive experience in both software engineering and operational analysis. Proven track record at Infosys in building high-performance web applications and at Outfox Energy in driving data-driven cost analysis. Expert in translating complex data into actionable insights to optimize procurement workflows, enhance operational efficiency, and deliver measurable cost savings.
 
-Managing end-to-end energy market settlement processes with a focus on accuracy and financial risk mitigation.
+---
 
-Achieving 97% performance accuracy through workflow optimization and smart meter data analysis.
+## 🛠️ Technical Expertise
 
-Advanced data modeling and reporting using Excel (Macros, PivotTables, VLOOKUP, Data Validation).
+### **Data & Operations**
+- **Analysis**: Advanced Excel (VLOOKUP, PivotTables, Macros, Data Validation), SQL
+- **Visualization**: Power BI (Beginner)
+- **Domain**: Energy Market Settlement, Smart Metering, Procurement Optimization
+- **Methodologies**: Strategy Deployment, Process Optimization, Financial Risk Mitigation
 
-Systems Engineer @ Infosys (Aug 2022 - April 2024)
+### **Software Development**
+- **Frontend**: Angular, HTML5, CSS3, JavaScript/TypeScript
+- **Backend**: .NET Core, ASP.NET Core Web API, RESTful APIs
+- **Databases**: SQL Server, Database Design
+- **Methodologies**: Agile, Full-Stack Development, Scalable Solutions
 
-Developed full-stack web applications with ASP.NET Core and Angular.
+### **Monitoring & Tools**
+- **Logging**: Kibana, Elasticsearch integration
+- **Performance**: Log Monitoring & Optimization Tools
+- **Productivity**: Microsoft Office Suite, Data Modeling
 
-Integrated Kibana & Elasticsearch for advanced log monitoring and performance optimization.
+---
 
-Designed and implemented RESTful APIs for scalable and high-performance services.
+## 💼 Professional Experience
 
-🛠️ Technical Toolkit
+### **Operation Analyst**
+**Outfox Energy** | Leicester, UK | *May 2024 – Present*
+- Managed end-to-end energy market settlement processes, ensuring high performance accuracy of 97%.
+- Specialized in metering data analysis using advanced Excel to maintain and update large-scale datasets.
+- Collaborated with internal teams to optimize settlement and metering workflows, reducing financial risks.
+- Communicated technical information clearly to stakeholders, ensuring insights were actionable for business teams.
+- Recognized for identifying settlement issues early and implementing corrective actions to mitigate financial risks.
 
-Category
+### **Systems Engineer**
+**Infosys Limited** | India | *Aug 2022 – April 2024*
+- Engineered enterprise applications using Angular for frontend and .NET Core for backend services.
+- Designed and implemented RESTful APIs enabling seamless communication between front-end and back-end.
+- Integrated Kibana with Elasticsearch to enable detailed log analysis, improving issue resolution times.
+- Focused on performance optimization and building scalable enterprise solutions.
 
-Skills
+---
 
-Data & Analytics
+## 📚 Education
 
-SQL, Advanced Excel (VLOOKUP, Macros), Power BI (Beginner)
+### **Mar Baselios College of Engineering** | Trivandrum, India
+**Bachelor of Technology** | *2018–2022*
+- **CGPA: 8.45/10**
+- Graduated with Honors distinction.
 
-Development
+---
 
-.NET, ASP.NET Core, Angular, RESTful APIs
+## 🔗 Connect With Me
 
-Monitoring
+<div align="center">
 
-Kibana, Elasticsearch, Log Monitoring
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richamary6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-Soft Skills
+</div>
 
-Problem Solving, Stakeholder Communication, Process Optimization, Strategy Deployment
+---
 
-🎓 Education
+## 🎯 Current Focus
 
-Bachelor of Technology - Mar Baselios College of Engineering, Trivandrum, India.
+- **Operational Excellence**: Delivering measurable cost savings through streamlined procurement workflows.
+- **Data Mastery**: Advancing skills in Power BI and complex data visualization.
+- **Technical Growth**: Bridging the gap between software development and business operations.
 
-CGPA: 8.45 (Aug 2018 – Aug 2022)
+---
 
-📫 Connect with Me
+> "Engineering efficient systems that balance technical precision with business strategy.  
+> Transforming raw data into actionable operational success."
 
-📍 Location: Leicester, UK (LE3 0DT)
+<div align="right">
 
-📧 Email: richamary6@gmail.com
+*"Efficiency is the foundation of growth"*
 
-📞 Phone: +44 7741609983
+</div>
 
-📊 GitHub Stats
+---
 
-Note: Replace YOUR_GITHUB_USERNAME_HERE with your actual GitHub username to activate the stats!
+### 📊 GitHub Stats
+
+![Richa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
