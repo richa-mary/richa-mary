@@ -2,7 +2,8 @@
 
 **Operation Analyst @ Outfox Energy | Former Systems Engineer @ Infosys | Data & Process Specialist**
 
-📍 Leicester, UK | 📧 richamary6@gmail.com | 📞 +44 7741609983
+📍 Leicester, UK | 📧 richamary6@gmail.com | 📞 +44 7741609983 | 🔗 [Portfolio](https://richa-mary.github.io/Portfolio/home)
+
 
 ---
 
@@ -65,9 +66,10 @@ Analytical and results-oriented professional with a strong foundation in Civil E
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://richa-mary.github.io/Portfolio/home)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richamary6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richa-mary-bba672212/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richa-mary)
 
 </div>
 
@@ -91,8 +93,3 @@ Analytical and results-oriented professional with a strong foundation in Civil E
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-![Richa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
