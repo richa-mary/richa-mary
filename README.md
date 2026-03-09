@@ -1,68 +1,107 @@
-# Richa Mary | Systems Engineer & Operation Analyst
+# Richa Mary | Business Analyst & Data Analyst
 
-**Operation Analyst @ Outfox Energy | Former Systems Engineer @ Infosys | Data & Process Specialist**
+**Turning data into decisions · Energy & Tech/Consulting · Open to opportunities in Germany 🇩🇪**
 
-📍 Leicester, UK | 📧 richamary6@gmail.com | 📞 +44 7741609983 | 🔗 [Portfolio](https://richa-mary.github.io/Portfolio/home)
-
-
----
-
-## 🎯 Professional Summary
-
-Analytical and results-oriented professional with a strong foundation in Civil Engineering and extensive experience in both software engineering and operational analysis. Proven track record at Infosys in building high-performance web applications and at Outfox Energy in driving data-driven cost analysis. Expert in translating complex data into actionable insights to optimize procurement workflows, enhance operational efficiency, and deliver measurable cost savings.
+📍 Leicester, UK (Relocating to Germany) | 📧 richamary6@gmail.com | 📞 +44 7741609983 | 🔗 [Portfolio](https://richa-mary.github.io/Portfolio/home)
 
 ---
 
-## 🛠️ Technical Expertise
+## 👩‍💼 About Me
 
-### **Data & Operations**
-- **Analysis**: Advanced Excel (VLOOKUP, PivotTables, Macros, Data Validation), SQL
-- **Visualization**: Power BI (Beginner)
-- **Domain**: Energy Market Settlement, Smart Metering, Procurement Optimization
-- **Methodologies**: Strategy Deployment, Process Optimization, Financial Risk Mitigation
+Results-driven **Business & Data Analyst** with 3+ years of experience across energy operations and enterprise software engineering. I specialise in transforming complex, large-scale datasets into clear business insights that drive process improvements and cost savings.
 
-### **Software Development**
-- **Frontend**: Angular, HTML5, CSS3, JavaScript/TypeScript
-- **Backend**: .NET Core, ASP.NET Core Web API, RESTful APIs
-- **Databases**: SQL Server, Database Design
-- **Methodologies**: Agile, Full-Stack Development, Scalable Solutions
+Currently based in the UK, I am actively seeking **Business Analyst or Data Analyst roles in Germany**, particularly in the **Energy/Utilities** and **Tech/Consulting** sectors. I bring a rare combination of technical depth (SQL, Excel, APIs, .NET) and business acumen (settlement analysis, procurement optimisation, stakeholder communication).
 
-### **Monitoring & Tools**
-- **Logging**: Kibana, Elasticsearch integration
-- **Performance**: Log Monitoring & Optimization Tools
-- **Productivity**: Microsoft Office Suite, Data Modeling
+🌍 **German**: A1–A2 (actively learning) | **English**: Fluent
+
+---
+
+## 💡 Core Competencies
+
+```
+Data Analysis & Reporting        ██████████████████░░  90%
+Process Optimisation             ████████████████░░░░  80%
+Stakeholder Communication        ████████████████░░░░  80%
+SQL & Database Querying          ██████████████░░░░░░  70%
+Advanced Excel (incl. Macros)    ██████████████████░░  90%
+Power BI (Dashboards)            ████████████░░░░░░░░  60%
+Requirements Gathering           ████████████████░░░░  80%
+API & Systems Integration        ██████████████░░░░░░  70%
+```
+
+---
+
+## 🛠️ Technical Toolkit
+
+### Data & Analytics
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+
+### Development & Engineering
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Domain Knowledge
+- ⚡ Energy Market Settlement & Smart Metering
+- 📊 Procurement Optimisation & Financial Risk Mitigation
+- 🔄 Agile Methodology & Full-Stack Enterprise Solutions
 
 ---
 
 ## 💼 Professional Experience
 
-### **Operation Analyst**
-**Outfox Energy** | Leicester, UK | *May 2024 – Present*
-- Managed end-to-end energy market settlement processes, ensuring high performance accuracy of 97%.
-- Specialized in metering data analysis using advanced Excel to maintain and update large-scale datasets.
-- Collaborated with internal teams to optimize settlement and metering workflows, reducing financial risks.
-- Communicated technical information clearly to stakeholders, ensuring insights were actionable for business teams.
-- Recognized for identifying settlement issues early and implementing corrective actions to mitigate financial risks.
+### 🔷 Operation Analyst → *Business & Data Analyst (Energy)*
+**Outfox Energy** · Leicester, UK · *May 2024 – Present*
 
-### **Systems Engineer**
-**Infosys Limited** | India | *Aug 2022 – April 2024*
-- Engineered enterprise applications using Angular for frontend and .NET Core for backend services.
-- Designed and implemented RESTful APIs enabling seamless communication between front-end and back-end.
-- Integrated Kibana with Elasticsearch to enable detailed log analysis, improving issue resolution times.
-- Focused on performance optimization and building scalable enterprise solutions.
+> Delivering data-driven analysis across energy market settlement and metering operations.
+
+- Managed end-to-end **energy market settlement processes** with a **97% performance accuracy** rate
+- Analysed large-scale metering datasets using **Advanced Excel** (VLOOKUP, PivotTables, Macros) to surface actionable insights
+- Identified and resolved settlement discrepancies early, mitigating **significant financial risk** for the business
+- Optimised settlement and metering workflows through cross-functional collaboration, improving operational efficiency
+- Translated complex technical data into clear, concise reports for non-technical stakeholders and senior management
+
+**Key Impact:** Consistently recognised for proactive issue detection and process improvement in a regulated energy environment.
+
+---
+
+### 🔷 Systems Engineer → *Technical Business Analyst*
+**Infosys Limited** · India · *Aug 2022 – April 2024*
+
+> Bridging the gap between technical teams and business requirements in enterprise application delivery.
+
+- Engineered scalable enterprise applications using **Angular** and **.NET Core**, working closely with business stakeholders to translate requirements into technical solutions
+- Designed **RESTful APIs** enabling seamless front-end to back-end data flow across enterprise systems
+- Integrated **Kibana & Elasticsearch** for real-time log monitoring — reducing issue resolution times and improving system reliability
+- Operated within **Agile** sprints, contributing to requirements analysis, sprint planning, and stakeholder demos
+
+**Key Impact:** Delivered robust, high-performance solutions aligned to business objectives across multiple enterprise clients.
 
 ---
 
 ## 📚 Education
 
-### **Mar Baselios College of Engineering** | Trivandrum, India
-**Bachelor of Technology** | *2018–2022*
-- **CGPA: 8.45/10**
-- Graduated with Honors distinction.
+### 🎓 Bachelor of Technology — Civil Engineering
+**Mar Baselios College of Engineering** · Trivandrum, India · *2018 – 2022*
+- **CGPA: 8.45 / 10** 
+- Strong foundation in analytical thinking, data-driven problem solving, and structured project delivery
+
+
+
+## 🚀 Currently Working On
+
+- 📊 Building Power BI dashboards to deepen data visualisation skills
+- 🇩🇪 Learning German (targeting B1 by end of 2025)
+- 📁 Expanding portfolio with end-to-end data analysis projects
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let's Connect
 
 <div align="center">
 
@@ -75,21 +114,8 @@ Analytical and results-oriented professional with a strong foundation in Civil E
 
 ---
 
-## 🎯 Current Focus
+<div align="center">
 
-- **Operational Excellence**: Delivering measurable cost savings through streamlined procurement workflows.
-- **Data Mastery**: Advancing skills in Power BI and complex data visualization.
-- **Technical Growth**: Bridging the gap between software development and business operations.
-
----
-
-> "Engineering efficient systems that balance technical precision with business strategy.  
-> Transforming raw data into actionable operational success."
-
-<div align="right">
-
-*"Efficiency is the foundation of growth"*
+*"Bridging data, systems, and strategy — one insight at a time."*
 
 </div>
-
----
